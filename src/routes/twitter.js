@@ -13,6 +13,6 @@ module.exports = {
 
     res.set({'Content-Type': 'image/png'})//setting content type as png image!
     res.send(image)//sending the image!
-    });
   },
 };
+
